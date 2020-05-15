@@ -1,0 +1,10 @@
+https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
+https://stackoverflow.com/questions/8651346/sorted-string-table-sstable-or-b-tree-for-a-database-index
+
+https://en.wikipedia.org/wiki/Star_schema
+https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
+https://www.guru99.com/star-snowflake-data-warehousing.html
+
+https://simplicable.com/new/backward-compatibility-vs-forward-compatibility
+https://www.tcognition.com/blog/forward-backward-compatibility-testing-examples/
+
