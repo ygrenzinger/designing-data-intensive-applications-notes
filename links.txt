@@ -8,3 +8,6 @@ https://www.guru99.com/star-snowflake-data-warehousing.html
 https://simplicable.com/new/backward-compatibility-vs-forward-compatibility
 https://www.tcognition.com/blog/forward-backward-compatibility-testing-examples/
 
+https://medium.com/coinmonks/time-and-clocks-and-ordering-of-events-in-a-distributed-system-cdd3f6075e73
+https://www.ics.uci.edu/~cs230/reading/time.pdf
+https://en.wikipedia.org/wiki/Vector_clock
